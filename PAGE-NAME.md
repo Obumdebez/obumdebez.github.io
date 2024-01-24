@@ -1,3 +1,3 @@
 layout: page
-title: My Profile
+title: "My Profile"
 permalink: /profile/
